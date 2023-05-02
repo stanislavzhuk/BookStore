@@ -1,6 +1,6 @@
 Description:
 
-This team project is an online [BookStore]() implemented using JavaScript, HTML, and CSS. We used an API to fetch book data, added Firebase authentication to store the shopping list in the user's account database, pagination for easy page navigation, included a Loader (spinner) for asynchronous requests, and created a responsive design for viewing on various devices.
+This team project is an online [BookStore](https://stanislavzhuk.github.io/BookStore/) implemented using JavaScript, HTML, and CSS. We used an API to fetch book data, added Firebase authentication to store the shopping list in the user's account database, pagination for easy page navigation, included a Loader (spinner) for asynchronous requests, and created a responsive design for viewing on various devices.
 
 📚 The web application provides the following features:
 
